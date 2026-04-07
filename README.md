@@ -10,7 +10,7 @@
 
 ## 🔨 Currently Building
 
-**[EduQuery](https://github.com/Dotmebhanu)** — An EdTech RAG application that lets students upload their own notes and past papers, then ask questions and get AI-powered, context-aware answers.
+**[EduQuery](https://github.com/Dotmebhanu/EDUquery)** — An EdTech RAG application that lets students upload their own notes and past papers, then ask questions and get AI-powered, context-aware answers.
 
 `Python` · `FastAPI` · `LangChain` · `Pinecone` · `React.js`
 
