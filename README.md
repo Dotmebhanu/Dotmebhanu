@@ -20,7 +20,7 @@
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🤖 [EduQuery](https://github.com/Dotmebhanu) | AI Exam Prep RAG App — students query their own notes & past papers | RAG · LangChain · Pinecone | 🟢 In progress |
+| 🤖 [EduQuery](https://github.com/Dotmebhanu/EDUquery) | AI Exam Prep RAG App — students query their own notes & past papers | RAG · LangChain · Pinecone | 🟢 In progress |
 | 🏠 [LandWise](https://github.com/Dotmebhanu/LandWise) | AI-powered land price prediction for real estate insights | ML · Python · FastAPI | ✅ Complete |
 | 🛡️ [DDoS Protection](https://github.com/Dotmebhanu/DDos-Protection) | Anomaly detection system to identify & mitigate DDoS attacks | Python · Scikit-learn | ✅ Complete |
 | 💻 [Codecom](https://github.com/Dotmebhanu/codecom) | Real-time collaborative code editor — Google Docs for code | Node.js · WebSockets · React | ✅ Complete |
